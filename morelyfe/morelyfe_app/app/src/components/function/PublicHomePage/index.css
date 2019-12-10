@@ -1,0 +1,35 @@
+.public-main {
+    width: 100%;
+    height: 100vh;
+
+    padding: 5px;
+    position: relative;
+    float: left;
+    
+    background-color: #fff;
+}
+.signup-button {
+    width: calc(100% - 10px);
+    height: 35px;
+
+    margin: 5px;
+
+    background-color: #B666D3;
+    color: white;
+
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.login-button {
+    width: calc(100% - 10px);
+    height: 35px;
+
+    margin: 5px;
+
+    background-color:white;
+    color: #B666D3;
+
+    border-radius: 30px;
+    font-weight: bold;
+}
